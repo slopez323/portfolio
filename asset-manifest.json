@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ba11cb45.css",
-    "main.js": "/portfolio/static/js/main.0bc6edcb.js",
-    "static/media/memoji.png": "/portfolio/static/media/memoji.81abeb3a3be4d52b9e90.png",
-    "static/media/memoji-p.png": "/portfolio/static/media/memoji-p.4cdf3d062e819f71fdb7.png",
-    "static/media/memoji-lg.png": "/portfolio/static/media/memoji-lg.ae9af1789d73a547f1a7.png",
-    "static/media/word.png": "/portfolio/static/media/word.7f886ea8ef9e59357a70.png",
-    "static/media/tictactoe.png": "/portfolio/static/media/tictactoe.b8b033966805b858fbb7.png",
-    "static/media/todo.png": "/portfolio/static/media/todo.23e053e4662ee116d01d.png",
-    "static/media/wordle-helper.png": "/portfolio/static/media/wordle-helper.16576f66c60290435080.png",
-    "static/media/library.png": "/portfolio/static/media/library.226eda0a8975f33afcc3.png",
-    "static/media/calc.png": "/portfolio/static/media/calc.794b42ec897e20a03e37.png",
-    "index.html": "/portfolio/index.html",
-    "main.ba11cb45.css.map": "/portfolio/static/css/main.ba11cb45.css.map",
-    "main.0bc6edcb.js.map": "/portfolio/static/js/main.0bc6edcb.js.map"
+    "main.css": "/static/css/main.2961da1f.css",
+    "main.js": "/static/js/main.3a1939a7.js",
+    "static/media/memoji.png": "/static/media/memoji.81abeb3a3be4d52b9e90.png",
+    "static/media/memoji-p.png": "/static/media/memoji-p.4cdf3d062e819f71fdb7.png",
+    "static/media/memoji-lg.png": "/static/media/memoji-lg.ae9af1789d73a547f1a7.png",
+    "static/media/word.png": "/static/media/word.7f886ea8ef9e59357a70.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.b8b033966805b858fbb7.png",
+    "static/media/todo.png": "/static/media/todo.23e053e4662ee116d01d.png",
+    "static/media/wordle-helper.png": "/static/media/wordle-helper.16576f66c60290435080.png",
+    "static/media/library.png": "/static/media/library.226eda0a8975f33afcc3.png",
+    "static/media/calc.png": "/static/media/calc.794b42ec897e20a03e37.png",
+    "index.html": "/index.html",
+    "main.2961da1f.css.map": "/static/css/main.2961da1f.css.map",
+    "main.3a1939a7.js.map": "/static/js/main.3a1939a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba11cb45.css",
-    "static/js/main.0bc6edcb.js"
+    "static/css/main.2961da1f.css",
+    "static/js/main.3a1939a7.js"
   ]
 }
